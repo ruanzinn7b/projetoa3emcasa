@@ -1,6 +1,6 @@
 CREATE DATABASE projetodemetrius;
 
-USE bancoa3;
+USE projetodemetrius;
 
 CREATE TABLE login (
 	nome VARCHAR(300),
