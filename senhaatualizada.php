@@ -24,12 +24,12 @@
 
         h1 {
             margin-bottom: 20px;
-            color: white; /* Altera a cor do texto para branco */
+            color: white; 
         }
 
         a {
             text-decoration: none;
-            color: #FF0000; /* Altera a cor do texto para vermelho */
+            color: #FF0000; 
         }
     </style>
 </head>
