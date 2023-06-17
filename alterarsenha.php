@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         echo "Erro ao atualizar a senha: " . mysqli_error($conexao);
     }
 
-    // Feche a conexão com o banco de dados
+    
     mysqli_close($conexao);
 }
 ?>
@@ -91,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </style>
 <body>
 <div>
-   <!-- Exiba o formulário de alteração de senha -->
+   
    <h1>Alterar Senha</h1>
    <form method="POST" action="alterarsenha.php">
        <label for="nova_senha">Nova senha:</label>
