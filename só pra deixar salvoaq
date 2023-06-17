@@ -1,0 +1,20 @@
+CREATE DATABASE projetodemetrius;
+USE projetodemetriusprojetodemetrius
+CREATE TABLE login(
+ nome VARCHAR(300),
+ login VARCHAR(100),
+ senha VARCHAR(100),
+ PRIMARY KEY (login)
+ );
+ projetodemetriusprojetodemetrius
+ 
+ projetodemetrius
+ 
+ CREATE TABLE login (nome VARCHAR(300), login VARCHAR (100), senha VARCHAR(100), PRIMARY KEY(login));
+
+INSERT INTO
+login (nome,login,senha)
+VALUES
+('administrador','admin','aluno123');login
+
+SELECT * FROM login;
