@@ -17,9 +17,9 @@ session_start();
         .content {
             background-image: linear-gradient(to bottom right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.5));
             padding: 20px;
-            border: 2px solid black; /* Cor das bordas (preto) */
+            border: 2px solid black; 
             border-radius: 5px;
-            background-color: black; /* Cor do quadrado (azul) */
+            background-color: black; 
             font-family: Arial, sans-serif;
         }
 
